@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working in TCS ...
+- 🔭 I’m currently working in TCS.
 - 🌱 I’m currently learning web3.
 - 👯 I’m passionate about developing mobile applications using Android as well as Flutter.
 - 💬 Ask me about : 
