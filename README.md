@@ -8,3 +8,4 @@
 - 📫 How to reach me: Drop an e-mail to chaurasiavipul007@gmail.com 
 - ⚡ Hobbies: Travelling,Gyming 
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vipul1298&theme=radical)
