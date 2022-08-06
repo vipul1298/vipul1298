@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github+Profile;I'm+a+Software+Engineer;Experienced+in+Flutter+and+Android;with+2+years;Always+learning+new+things+😃)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github+Profile;I'm+a+Software+Engineer;Experienced+in+Flutter+and+Android;with+2+years;Still+learning+and growing+in mobile world+😃)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working as SE-1(Flutter) @GeekyAnts.
 - 🌱 I’m currently in love with Stock market and also exploring in the same.
