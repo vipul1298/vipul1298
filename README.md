@@ -13,4 +13,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vipul1298&theme=radical)](https://git.io/streak-stats)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=vipul1298&theme=rogue)](https://github.com/vipul1298/github-readme-activity-graph)
+[![Vipul's github activity graph](https://activity-graph.herokuapp.com/graph?username=vipul1298&theme=rogue)](https://github.com/vipul1298/github-readme-activity-graph)
