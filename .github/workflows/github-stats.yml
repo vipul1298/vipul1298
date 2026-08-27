@@ -2,10 +2,8 @@ name: Update GitHub Stats
 
 on:
   schedule:
-    # Runs every day at 03:00 UTC
     - cron: "0 3 * * *"
 
-  # Allows you to manually run the workflow
   workflow_dispatch:
 
 jobs:
@@ -24,10 +22,9 @@ jobs:
         with:
           image-file: images/github-stats.svg
           colors: dark-dimmed
-          include-title: true
-          custom-title: "GitHub Statistics"
+          include-title: false
           hide-keys: joined,mostStarred,mostForked,followers,following,private
-          max-languages: 10
+          max-languages: 6
           commit-and-push: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
