@@ -1,0 +1,33 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    # Runs every day at 03:00 UTC
+    - cron: "0 3 * * *"
+
+  # Allows you to manually run the workflow
+  workflow_dispatch:
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Generate GitHub Stats
+        uses: cicirello/user-statistician@v1
+        with:
+          image-file: images/github-stats.svg
+          colors: dark-dimmed
+          include-title: true
+          custom-title: "GitHub Statistics"
+          hide-keys: joined,mostStarred,mostForked,followers,following,private
+          max-languages: 10
+          commit-and-push: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
