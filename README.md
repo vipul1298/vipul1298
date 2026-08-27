@@ -31,22 +31,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vipul1298&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipul1298&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=vipul1298&theme=radical&hide_border=true" />
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vipul1298&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-</p>
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vipul1298&theme=rogue&hide_border=true" />
+  <img
+    src="./images/github-stats.svg"
+    alt="Vipul's GitHub Statistics"
+    width="100%"
+  />
 </p>
