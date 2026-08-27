@@ -30,10 +30,8 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    src="./images/github-stats.svg"
-    alt="Vipul's GitHub Statistics"
-    width="100%"
-  />
-</p>
+<img
+  src="./images/github-stats.svg"
+  alt="GitHub Statistics"
+  width="550"
+/>
